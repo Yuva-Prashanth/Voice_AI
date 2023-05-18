@@ -3,7 +3,7 @@
 ![Image alt text](https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/05140912/speech-voice-recognition-scaled.jpg "Voice")
 
 # Overview
-React Voice AI is a web application built with React JS, CSS, and components that allows users to interact with the application using voice commands. The application uses the lan-sdk-web library for speech recognition and supports custom hooks for integrating voice commands with different components.
+Voxify is a web application built with React JS, CSS, and components that allows users to interact with the application using voice commands. The application uses the lan-sdk-web library for speech recognition and supports custom hooks for integrating voice commands with different components.
 
 # Features
 - Speech recognition using lan-sdk-web library
