@@ -1,4 +1,4 @@
-<h1 align="center">AI Voice</h1>
+<h1 align="center">Voxify</h1>
 
 ![Image alt text](https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/05140912/speech-voice-recognition-scaled.jpg "Voice")
 
